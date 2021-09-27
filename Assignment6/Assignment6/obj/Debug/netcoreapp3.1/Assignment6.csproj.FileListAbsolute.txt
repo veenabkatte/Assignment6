@@ -1,0 +1,13 @@
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.exe
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.deps.json
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.runtimeconfig.json
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.runtimeconfig.dev.json
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.dll
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.pdb
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.AssemblyInfoInputs.cache
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.AssemblyInfo.cs
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.csproj.CoreCompileInputs.cache
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.dll
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.pdb
+E:\github_jk\self\assignment6\Assignment6\Assignment6\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.genruntimeconfig.cache
